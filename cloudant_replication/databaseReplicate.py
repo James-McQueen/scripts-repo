@@ -1,5 +1,4 @@
-###License - Apache 2
-
+###26/07/17###
 
 from cloudant.client import Cloudant
 from cloudant.error import CloudantException
