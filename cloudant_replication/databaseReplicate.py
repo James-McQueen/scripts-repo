@@ -1,3 +1,6 @@
+###License - Apache 2
+
+
 from cloudant.client import Cloudant
 from cloudant.error import CloudantException
 from cloudant.result import Result, ResultByKey
