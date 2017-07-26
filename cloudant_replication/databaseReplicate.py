@@ -1,4 +1,5 @@
 ###26/07/17###
+###Use: Pass cloudant username, password, source databse name, target database name and create target into replicateDatabase.sh and run.
 
 from cloudant.client import Cloudant
 from cloudant.error import CloudantException
