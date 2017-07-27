@@ -1,4 +1,5 @@
 databaseReplicate.py:<br>
+<br>Needs python cloudant module ---> run: pip install cloudant<br>
 Replicates cloudant databases from a script.<br>
 <br>
 Called by: python databaseReplicate.py --sourceUser --sourcePass --sourceHost --targetUser --targetPass --targetHost --sourceBase --targetBase --createTarget --id <br><br>
