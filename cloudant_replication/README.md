@@ -1,7 +1,7 @@
 databaseReplicate.py:<br>
 Replicates cloudant databases from a script.<br>
 <br>
-Called by: python databaseReplicate.py --sourceUser --sourcePass --sourceHost --targetUser --targetPass --targetHost --sourceBase --targetBase --createTarget --id
+Called by: python databaseReplicate.py --sourceUser --sourcePass --sourceHost --targetUser --targetPass --targetHost --sourceBase --targetBase --createTarget --id <br>
     --sourceUser : source database's cloudant username <br>
     --sourcePass : source database's cloudant password <br>
     --sourceHost : source database's cloudant host <br>
