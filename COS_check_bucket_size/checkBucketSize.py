@@ -48,7 +48,7 @@ def checkBucketSize():
         print("Error: Name of bucket not provided")
         sys.exit()
 
-    print("Bucket size is: " + str(size))
+    ########print("Bucket size is: " + str(size))
     if (size > sizeLimit):
         print("Bucket size too big")
         sys.exit(1)
